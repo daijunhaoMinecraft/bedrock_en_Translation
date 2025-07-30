@@ -1,0 +1,3 @@
+cn_bing_translator
+Taowa_Wx
+requests
